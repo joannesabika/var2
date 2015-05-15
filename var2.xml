@@ -3,7 +3,7 @@
     <field name="VAR">delayCount</field>
     <value name="VALUE">
       <block type="math_number" id="13">
-        <field name="NUM">10</field>
+        <field name="NUM">12</field>
       </block>
     </value>
     <next>
@@ -20,7 +20,7 @@
                 <field name="OP">ADD</field>
                 <value name="A">
                   <block type="math_number" id="269">
-                    <field name="NUM">4</field>
+                    <field name="NUM">6</field>
                   </block>
                 </value>
                 <value name="B">
